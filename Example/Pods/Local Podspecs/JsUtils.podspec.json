@@ -1,0 +1,22 @@
+{
+  "name": "JsUtils",
+  "version": "0.1.0",
+  "summary": "A short description of JsUtils.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ho@npage.co.kr/JsUtils",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ho@npage.co.kr": "jslee@npage.co.kr"
+  },
+  "source": {
+    "git": "https://github.com/ho@npage.co.kr/JsUtils.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JsUtils/Classes/**/*"
+}

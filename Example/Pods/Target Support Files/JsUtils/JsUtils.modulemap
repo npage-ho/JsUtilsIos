@@ -1,0 +1,6 @@
+framework module JsUtils {
+  umbrella header "JsUtils-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'JsUtils'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'Npage Use Utils'
   s.description      = 'This is test PodProject'
 

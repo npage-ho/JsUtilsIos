@@ -258,6 +258,14 @@
 			name = Pod;
 			sourceTree = "<group>";
 		};
+		4BBC4880241E6DE000E31788 /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				4BBC487E241E6C2600E31788 /* Utils.swift */,
+			);
+			path = Sources;
+			sourceTree = "<group>";
+		};
 		A6E3B53B4E84DA7FA3CD5E1C136E26DA /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -275,7 +283,7 @@
 		B135C84D11EED74C3F1E3FE0C575B242 /* JsUtils */ = {
 			isa = PBXGroup;
 			children = (
-				4BBC487E241E6C2600E31788 /* Utils.swift */,
+				4BBC4880241E6DE000E31788 /* Sources */,
 				4732505D7043C7DB601DA668D7B303F9 /* Pod */,
 				A6E3B53B4E84DA7FA3CD5E1C136E26DA /* Support Files */,
 			);

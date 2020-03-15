@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'JsUtils'
-  s.version          = '0.1.1'
+  s.version          = '0.1.0'
   s.summary          = 'Npage Use Utils'
   s.description      = 'This is test PodProject'
 
@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.author           = { 'ho@npage.co.kr' => 'jslee@npage.co.kr' }
   s.source           = { :git => 'https://github.com/npage-ho/JsUtilsIos.git', :tag => s.version.to_s }
   s.ios.deployment_target = '9.3'
-  s.source_files = 'JsUtils/Classes/**/*'
+  s.source_files = 'Sources/*.swift'
   s.swift_version = '4.0'
   
 end
